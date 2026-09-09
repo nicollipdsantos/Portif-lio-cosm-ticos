@@ -86,15 +86,9 @@ Entre as práticas utilizadas estão:
 
 ## Link do site
 
-Site publicado:
+O projeto está publicado e pode ser acessado pelo seguinte endereço:
 
-**[Inserir aqui o link do site publicado]**
-
-Exemplo:
-
-```text
-https://seu-site.github.io/nic-cosmeticos/
-```
+https://nicollipdsantos.github.io/Portif-lio-cosm-ticos/
 
 ## Contato
 
